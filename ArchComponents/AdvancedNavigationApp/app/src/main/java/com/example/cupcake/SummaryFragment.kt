@@ -19,8 +19,8 @@ Copyright (C), 2022-2023, Sara Echeverria (bl33h)
 @author Sara Echeverria
 FileName: SummaryFragment
 @version: I - Kotlin
-Creation: 09/09/2022
-Last modification: 09/09/2022
+Creation: 09/10/2022
+Last modification: 09/10/2022
 ------------------------------------------------------------------------------*
 
  */
